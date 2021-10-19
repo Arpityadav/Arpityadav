@@ -34,7 +34,7 @@ class About extends Me
     
     public function moreAboutme(): string
     {
-        return 'https://arpityadav.netlify.com';
+        return 'http://arpityadav.me';
     }
 }
 ```
