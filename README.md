@@ -7,18 +7,18 @@ class About extends Me
     {
         return [
             'workplace' => [
-                'student' => 'RKGIT, Ghaziabad',         
+                'Backend Developer' => 'Ripenapps, Nodia',         
             ]
         ];
     }
     public function getDailyKnowledge(): array
     {
         return [
-            Php::class,
+            PHP::class,
             Javascript::class,
             Laravel::class,
-            Vuejs::class,
-            Angular::class,
+            Vue::class,
+            React::class,
             Inertia::class,
             TailwindCss::class,
             Aws::class,
